@@ -1,13 +1,13 @@
 # New Project
 
 ## Overview
-This project is a full-stack software application.
+A full-stack software application designed to provide reliable, scalable, and secure functionality.
 
 ## Features
-- Backend API
-- Frontend application
+- RESTful backend APIs
+- Modern frontend application
 - Database integration
-- Authentication
+- User authentication and authorization
 
 ## Technologies
 - Java
@@ -16,6 +16,7 @@ This project is a full-stack software application.
 - SQL
 
 ## Installation
+
 ```bash
 git clone https://github.com/USERNAME/newproject.git
 cd newproject
